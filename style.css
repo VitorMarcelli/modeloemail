@@ -1,0 +1,43 @@
+.body{
+    margin: left;
+}
+
+
+
+
+h2{
+    margin: 0 0 10px;
+    padding: 0;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.box{
+  position: left;
+  
+    
+}
+
+input{
+    position: relative;
+    display: inline-block;
+    font-size: 40px;
+    box-sizing: border-box;
+    transition: .5s;
+}
+
+input [type="text"]
+{
+    background: white;
+    width: 340px;
+    height: 60px;
+    border: none;
+    outline: none;
+
+    
+    
+
+    
+   
+}
